@@ -1,1 +1,3 @@
-This is the docs/architecture.md
+# System Architecture
+
+Documentation about the Linux server architecture.
