@@ -26,3 +26,26 @@ The project also includes Bash automation for server health monitoring and serve
 - Automate server configuration backups
 - Schedule tasks using cron
 - Document troubleshooting procedures
+
+## Technologies
+
+Ubuntu Linux > Server operating system
+Bash > Automation and administration
+SSH > Remote server administration
+UFW > Firewall
+Nginx > Web server
+systemd > Service management
+Cron > Task scheduling
+Git > Version control
+HTTP > Web communication
+TCP/IP > Network communication
+DNS > Name resolution
+
+
+
+
+
+
+
+
+
