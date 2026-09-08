@@ -2,11 +2,9 @@
 
 ## Overview 
 
-This project demonstrates the deployment, configuration, security, administration, monitoring, automation, and troubleshooting of an Ubuntu Linux server.
+I provisioned and administered an Ubuntu Linux server, implemented SSH-based remote administration, configured firewall rules, deployed an Nginx web server, managed system services, analyzed system logs, configured file permissions, and automated server health checks and backups using Bash and cron.
 
-The server was configured for remote administration using SSH, secured using UFW firewall rules, and configured to host a web application using Nginx.
-
-The project also includes Bash automation for server health monitoring and server configuration backups using cron.
+I configured the server for remote administration using SSH, secured using UFW firewall rules, and configured it to host a web application using Nginx. Also, I included a Bash automation for server health monitoring and server configuration backups using cron.
 
 ## Objectives
 
