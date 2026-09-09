@@ -41,7 +41,7 @@ I configured the server for remote administration using SSH, secured using UFW f
 
 ## Architecture
 
-## Architecture ```text Developer Machine | | SSH | Port 22 v +-----------------------+ | Ubuntu Server | | | | UFW Firewall | | / \ | | SSH HTTP | | 22 80 | | \ / | | \ / | | Nginx | | | | | Web Content | | | | Bash Automation | | ├── Health Check | | └── Backup | | | | systemd | | Services | +-----------------------+ | v Web Browser
+
 
 
 
